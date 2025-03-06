@@ -8,7 +8,7 @@ var apps = [
       "id": "google",
       "title": "Google",
       "url": "https://www.google.com/?safe=active&ssui=on",
-      'image': 'https://img.freepik.com/free-icon/search_318-265146.jpg'
+      'image': '7123025_logo_google_g_icon'
       
     },
     {
