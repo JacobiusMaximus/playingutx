@@ -1,4 +1,4 @@
-var games that barely work = [
+var Games = [
   {
     id: 'customgame',
     title: 'Add custom game',
